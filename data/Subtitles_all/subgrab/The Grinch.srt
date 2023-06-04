@@ -1,0 +1,1917 @@
+﻿1
+00:00:02,041 --> 00:00:04,826
+[yawning]
+
+2
+00:00:06,828 --> 00:00:07,742
+[engine rumbling]
+
+3
+00:00:10,963 --> 00:00:13,879
+[instrumental music]
+
+4
+00:00:15,098 --> 00:00:17,665
+[rooster crowing]
+
+5
+00:00:17,752 --> 00:00:20,451
+[male narrator]
+It sure was
+a beautiful morning.
+
+6
+00:00:20,538 --> 00:00:23,802
+The sun came up glowing
+and glitzeling.
+
+7
+00:00:23,889 --> 00:00:25,282
+And when the dawn broke
+
+8
+00:00:25,369 --> 00:00:27,893
+all the witzel birds woke.
+
+9
+00:00:27,980 --> 00:00:30,983
+The witzel birds
+all woke up witzeling.
+
+10
+00:00:31,070 --> 00:00:33,507
+[birds chirping]
+
+11
+00:00:34,943 --> 00:00:37,685
+[music continues]
+
+12
+00:00:39,000 --> 00:00:45,074
+api.OpenSubtitles.org is deprecated, please
+implement REST API from OpenSubtitles.com
+
+13
+00:00:52,178 --> 00:00:54,267
+[dramatic music]
+
+14
+00:00:58,228 --> 00:01:01,361
+[male narrator]
+An unusually beautiful
+morning it was.
+
+15
+00:01:01,448 --> 00:01:06,975
+Even the Grinch
+woke up witzeling.
+
+16
+00:01:07,062 --> 00:01:08,455
+[whistles]
+
+17
+00:01:08,542 --> 00:01:11,371
+His dog, Max, was amazed!
+
+18
+00:01:11,458 --> 00:01:13,373
+He stared up from the floor.
+
+19
+00:01:13,460 --> 00:01:15,854
+A witzeling Grinch?
+
+20
+00:01:15,941 --> 00:01:17,725
+Never happened before.
+
+21
+00:01:17,812 --> 00:01:20,685
+Never before had this nasty,
+old guy
+
+22
+00:01:20,772 --> 00:01:23,340
+left out of his bed
+with a smile in his eye
+
+23
+00:01:23,427 --> 00:01:26,604
+and witzeling, "Hello,"
+to the birds in the sky.
+
+24
+00:01:26,691 --> 00:01:29,563
+[whistling]
+
+25
+00:01:31,913 --> 00:01:34,002
+Unbelievable!
+
+26
+00:01:34,089 --> 00:01:35,917
+This was gooder than good.
+
+27
+00:01:36,004 --> 00:01:38,616
+This was grander than grand.
+
+28
+00:01:38,703 --> 00:01:40,879
+There was peace in his heart.
+
+29
+00:01:40,966 --> 00:01:46,232
+There'd be peace in the land.
+
+30
+00:01:46,319 --> 00:01:50,062
+And a very good morning to you,
+Mr. Grinch.
+
+31
+00:01:50,149 --> 00:01:51,890
+Oh, it is, is it?
+
+32
+00:01:53,108 --> 00:01:57,025
+Well, i-it seems so, sort of.
+
+33
+00:01:57,112 --> 00:02:00,115
+I see nothing
+to witzel about.
+
+34
+00:02:00,203 --> 00:02:02,988
+You must be out of your head,
+no doubt.
+
+35
+00:02:03,075 --> 00:02:05,382
+I think the time has come
+for thee
+
+36
+00:02:05,469 --> 00:02:09,124
+to repeat the Grinch's oath
+with me.
+
+37
+00:02:09,212 --> 00:02:11,692
+[both]
+A Grinch is unhelpful
+
+38
+00:02:11,779 --> 00:02:14,913
+unfriendly, unkind.
+
+39
+00:02:15,000 --> 00:02:16,915
+With ungracious thoughts..
+
+40
+00:02:17,002 --> 00:02:19,222
+...in an unhealthy mind.
+
+41
+00:02:19,309 --> 00:02:21,398
+A Grinch is uncheerful
+
+42
+00:02:21,485 --> 00:02:24,575
+uncouth and unclean.
+
+43
+00:02:24,662 --> 00:02:27,795
+'Now, say this together!'
+
+44
+00:02:27,882 --> 00:02:32,409
+[both]
+I'm frightfully mean!
+
+45
+00:02:32,496 --> 00:02:35,107
+My eyes are both shifty.
+
+46
+00:02:35,194 --> 00:02:37,370
+My fingers are thrifty.
+
+47
+00:02:37,457 --> 00:02:39,938
+My mouth will not smile.
+
+48
+00:02:40,025 --> 00:02:41,592
+Not half of an inch.
+
+49
+00:02:41,679 --> 00:02:43,158
+I'm a Grinch.
+
+50
+00:02:43,246 --> 00:02:45,683
+I am a Grinch.
+
+51
+00:02:45,770 --> 00:02:47,598
+I'm a Grinch!
+
+52
+00:02:47,685 --> 00:02:49,295
+That's my boy!
+
+53
+00:02:49,382 --> 00:02:51,602
+Now, go out and prove it.
+
+54
+00:02:54,648 --> 00:02:55,606
+[whimpering]
+
+55
+00:02:59,349 --> 00:03:02,656
+[The Grinch]
+Prove it. Prove it.
+
+56
+00:03:02,743 --> 00:03:04,615
+Prove it.
+
+57
+00:03:04,702 --> 00:03:06,530
+Prove it.
+
+58
+00:03:06,617 --> 00:03:08,488
+[instrumental music]
+
+59
+00:03:08,575 --> 00:03:10,447
+[engine revving]
+
+60
+00:03:10,534 --> 00:03:11,752
+[tires screech]
+
+61
+00:03:11,839 --> 00:03:13,972
+[engine revving]
+
+62
+00:03:14,059 --> 00:03:15,060
+[birds chirping]
+
+63
+00:03:15,147 --> 00:03:17,497
+[engine revving]
+
+64
+00:03:17,584 --> 00:03:18,498
+[tires screech]
+
+65
+00:03:20,065 --> 00:03:22,981
+Prove I'm a Grinch. Hah!
+
+66
+00:03:27,159 --> 00:03:28,465
+[chirping]
+
+67
+00:03:28,552 --> 00:03:30,118
+[coughing]
+
+68
+00:03:30,205 --> 00:03:31,598
+[engine revving]
+
+69
+00:03:31,685 --> 00:03:32,686
+[coughs]
+
+70
+00:03:32,773 --> 00:03:34,514
+And a witzel to you.
+
+71
+00:03:34,601 --> 00:03:36,864
+[laughing]
+
+72
+00:03:36,951 --> 00:03:39,867
+[engine revving]
+
+73
+00:03:40,868 --> 00:03:43,741
+[instrumental music]
+
+74
+00:03:49,094 --> 00:03:51,444
+♪ Oh the bees
+are busy buzzin' ♪
+
+75
+00:03:51,531 --> 00:03:53,707
+♪ In the beezleberry vine ♪
+
+76
+00:03:53,794 --> 00:03:55,753
+♪ While the beezleberries
+sweeten ♪
+
+77
+00:03:55,840 --> 00:03:58,146
+♪ In the good old sunnyshine ♪
+
+78
+00:03:58,233 --> 00:04:02,368
+♪ It's gonna be a sunny
+buzzy beezleberry day ♪
+
+79
+00:04:02,455 --> 00:04:04,544
+♪ A day when cats ♪
+
+80
+00:04:04,631 --> 00:04:07,155
+♪ Put on fresh hats ♪
+
+81
+00:04:07,242 --> 00:04:09,593
+♪ When cats put on
+their picnic hats ♪
+
+82
+00:04:09,680 --> 00:04:12,857
+♪ And go outside to play ♪
+
+83
+00:04:12,944 --> 00:04:14,293
+thud
+
+84
+00:04:14,380 --> 00:04:17,296
+[engine rumbling]
+
+85
+00:04:17,383 --> 00:04:20,299
+[music continues]
+
+86
+00:04:25,173 --> 00:04:27,306
+♪ Oh the leapfrogs
+are a-leapin' ♪
+
+87
+00:04:27,393 --> 00:04:29,743
+♪ And they're leapin'
+mighty fine ♪
+
+88
+00:04:29,830 --> 00:04:31,789
+♪ And they're beepin'
+while they're leapin' ♪
+
+89
+00:04:31,876 --> 00:04:34,269
+♪ In the good old sunnyshine ♪
+
+90
+00:04:34,357 --> 00:04:38,273
+♪ It's gonna be a beepin'
+leapin' moo-moo of a day ♪
+
+91
+00:04:38,361 --> 00:04:40,711
+♪ A buzzy berry ♪
+
+92
+00:04:40,798 --> 00:04:45,368
+♪ Beezly very lulu of a day ♪♪
+
+93
+00:04:47,935 --> 00:04:50,416
+[engine rumbling]
+
+94
+00:05:01,732 --> 00:05:02,646
+pop
+
+95
+00:05:10,175 --> 00:05:11,524
+[sniffles]
+
+96
+00:05:14,484 --> 00:05:15,441
+[music continues]
+
+97
+00:05:15,528 --> 00:05:16,529
+[tires screeching]
+
+98
+00:05:16,616 --> 00:05:17,661
+[crashing]
+
+99
+00:05:17,748 --> 00:05:19,837
+[horn blaring]
+
+100
+00:05:21,099 --> 00:05:23,710
+[crashing]
+
+101
+00:05:23,797 --> 00:05:28,193
+You get this crate
+out of my way.
+
+102
+00:05:28,280 --> 00:05:32,937
+I am tremendously
+so, so sorry, mister..
+
+103
+00:05:33,024 --> 00:05:34,634
+Whatever your name is.
+
+104
+00:05:34,721 --> 00:05:36,854
+I do seem to be blockerizing
+
+105
+00:05:36,941 --> 00:05:38,943
+and obstructivating
+your mobility.
+
+106
+00:05:39,030 --> 00:05:42,729
+Obstructivating
+my mobility willity.
+
+107
+00:05:42,816 --> 00:05:45,297
+However, Mr. Hosts,
+if you would be so kind
+
+108
+00:05:45,384 --> 00:05:47,299
+as to hold my hot dog..
+
+109
+00:05:47,386 --> 00:05:49,170
+'That's a good fellow.'
+
+110
+00:05:49,257 --> 00:05:52,913
+I will de-blockorize and
+de-obstructivate this roadway
+
+111
+00:05:53,000 --> 00:05:56,482
+allowing you to sally forth
+on your merry, merry way.
+
+112
+00:05:59,833 --> 00:06:03,271
+I deeply deplore
+any incovenience-alities
+
+113
+00:06:03,358 --> 00:06:06,187
+that I may
+have caused you, mister..
+
+114
+00:06:06,274 --> 00:06:07,232
+...Greenface.
+
+115
+00:06:08,929 --> 00:06:10,278
+Greenface?
+
+116
+00:06:10,888 --> 00:06:13,107
+snap
+
+117
+00:06:13,194 --> 00:06:15,196
+I thank you for your patience
+and I wish you
+
+118
+00:06:15,283 --> 00:06:17,895
+a felicitous resumption
+on your interrupted journey
+
+119
+00:06:17,982 --> 00:06:19,984
+towards your ultimate
+destination on..
+
+120
+00:06:21,855 --> 00:06:24,554
+Mr. Greenface?
+
+121
+00:06:24,641 --> 00:06:25,816
+[engine revving]
+
+122
+00:06:25,903 --> 00:06:28,166
+[tires screeching]
+
+123
+00:06:28,253 --> 00:06:29,210
+[engine revving]
+
+124
+00:06:29,297 --> 00:06:30,255
+[tires screeching]
+
+125
+00:06:34,085 --> 00:06:36,000
+[engine revving]
+
+126
+00:06:36,087 --> 00:06:37,610
+[whistling]
+
+127
+00:06:39,351 --> 00:06:42,267
+[engine rumbling]
+
+128
+00:06:43,790 --> 00:06:44,878
+crash
+
+129
+00:06:44,965 --> 00:06:46,793
+[tires screeching]
+
+130
+00:06:46,880 --> 00:06:47,794
+crash
+
+131
+00:06:49,622 --> 00:06:51,102
+splash
+
+132
+00:06:51,189 --> 00:06:53,452
+[engine revving]
+
+133
+00:06:53,539 --> 00:06:55,672
+[tires screeching]
+
+134
+00:06:57,238 --> 00:07:00,024
+[music continues]
+
+135
+00:07:00,111 --> 00:07:02,200
+[crashing]
+
+136
+00:07:05,420 --> 00:07:06,813
+Oops!
+
+137
+00:07:06,900 --> 00:07:09,555
+[engine rumbling]
+
+138
+00:07:09,642 --> 00:07:11,992
+[engines revving]
+
+139
+00:07:12,079 --> 00:07:13,820
+[tires screeching]
+
+140
+00:07:13,907 --> 00:07:15,256
+[engine revving]
+
+141
+00:07:17,345 --> 00:07:18,303
+Phew!
+
+142
+00:07:19,783 --> 00:07:21,306
+Relax.
+
+143
+00:07:21,393 --> 00:07:24,309
+[mellow music]
+
+144
+00:07:25,919 --> 00:07:28,052
+♪ In this world ♪
+
+145
+00:07:28,139 --> 00:07:30,794
+♪ Of complexitous
+complicatation ♪
+
+146
+00:07:30,881 --> 00:07:32,839
+♪ In this world ♪
+
+147
+00:07:32,926 --> 00:07:35,755
+♪ Of peculitous puzzleazation ♪
+
+148
+00:07:35,842 --> 00:07:37,844
+♪ In this world ♪
+
+149
+00:07:37,931 --> 00:07:41,065
+♪ Of ridunculous
+rufulization ♪
+
+150
+00:07:41,152 --> 00:07:43,720
+♪ There comes a time for ♪
+
+151
+00:07:43,807 --> 00:07:48,855
+♪ Relax-ification ♪
+
+152
+00:07:52,467 --> 00:07:53,556
+♪ Your life's full of boulders ♪
+
+153
+00:07:53,643 --> 00:07:54,992
+♪ But shrug your should-olders ♪
+
+154
+00:07:55,079 --> 00:07:58,212
+♪ Just shrug
+your should-old-ers ♪
+
+155
+00:07:58,299 --> 00:08:01,215
+♪ Re-e-e-lax ♪
+
+156
+00:08:01,302 --> 00:08:04,218
+[music continues]
+
+157
+00:08:09,746 --> 00:08:12,009
+♪ In this world I've.. ♪
+
+158
+00:08:12,096 --> 00:08:14,098
+screech screech
+
+159
+00:08:17,449 --> 00:08:19,930
+♪ In this world of pec.. ♪
+
+160
+00:08:20,017 --> 00:08:22,019
+screech screech
+
+161
+00:08:25,413 --> 00:08:27,111
+♪ In this world.. ♪♪
+
+162
+00:08:27,198 --> 00:08:30,810
+screech screech
+
+163
+00:08:30,897 --> 00:08:34,553
+[The Grinch]
+Having problems,
+Mr. Cat in the Hat?
+
+164
+00:08:34,640 --> 00:08:36,207
+Come inside.
+
+165
+00:08:36,294 --> 00:08:38,252
+I have something to show you.
+
+166
+00:08:41,342 --> 00:08:43,736
+This, sir, is my Acoustical
+
+167
+00:08:43,823 --> 00:08:45,869
+Anti-Audial Bleeper.
+
+168
+00:08:45,956 --> 00:08:50,264
+Otherwise known
+as my Vacu-Sound Sweeper.
+
+169
+00:08:50,351 --> 00:08:51,614
+That?
+
+170
+00:08:51,701 --> 00:08:52,919
+That's the darn thing
+
+171
+00:08:53,006 --> 00:08:55,530
+that makes the sound
+sound stupid?
+
+172
+00:08:55,618 --> 00:08:58,359
+It sucks out of the air
+every noise
+
+173
+00:08:58,446 --> 00:08:59,883
+every sound
+
+174
+00:08:59,970 --> 00:09:01,885
+and gargles the sound waves
+
+175
+00:09:01,972 --> 00:09:04,452
+for 50 miles 'round!
+
+176
+00:09:04,539 --> 00:09:07,368
+'Nifty little contraption,
+isn't it?'
+
+177
+00:09:07,455 --> 00:09:10,328
+It's implausible,
+it's impossible
+
+178
+00:09:10,415 --> 00:09:13,723
+it's unreasonable
+and unlawsible.
+
+179
+00:09:13,810 --> 00:09:16,116
+Such things never happen
+in the middle of the day.
+
+180
+00:09:16,203 --> 00:09:18,292
+'And if they do, I ignore them'
+
+181
+00:09:18,379 --> 00:09:20,164
+and they're bound
+to go away..
+
+182
+00:09:20,251 --> 00:09:21,644
+screech screech
+
+183
+00:09:21,731 --> 00:09:26,779
+[Grinch laughing]
+
+184
+00:09:26,866 --> 00:09:29,564
+From now on, you will hear
+
+185
+00:09:29,652 --> 00:09:31,566
+what I want you to hear.
+
+186
+00:09:35,048 --> 00:09:36,833
+♪ On again off again ♪
+
+187
+00:09:36,920 --> 00:09:38,922
+♪ Make the sound cough again ♪
+
+188
+00:09:39,009 --> 00:09:42,708
+♪ I am the boss
+of what everyone hears ♪
+
+189
+00:09:42,795 --> 00:09:44,492
+♪ The sound of your voice ♪
+
+190
+00:09:44,579 --> 00:09:47,017
+♪ Is the sound of my choice ♪
+
+191
+00:09:47,104 --> 00:09:50,934
+♪ I am the master
+of everyone's ears ♪
+
+192
+00:09:54,851 --> 00:09:56,461
+♪ With the flick of my thumb ♪
+
+193
+00:09:56,548 --> 00:09:58,724
+♪ With the greatest of ease ♪
+
+194
+00:09:58,811 --> 00:10:00,421
+♪ If I wish I can stop ♪
+
+195
+00:10:00,508 --> 00:10:02,946
+♪ All the buzzing of bees ♪
+
+196
+00:10:06,906 --> 00:10:08,734
+♪ And as for your lovebirds ♪
+
+197
+00:10:08,821 --> 00:10:10,605
+♪ I can't stand their chirping ♪
+
+198
+00:10:10,693 --> 00:10:12,695
+♪ So I just push my button ♪
+
+199
+00:10:12,782 --> 00:10:14,784
+♪ Your lovebirds start burping ♪
+
+200
+00:10:14,871 --> 00:10:16,002
+[hiccupping]
+
+201
+00:10:18,875 --> 00:10:20,398
+♪ The sounds that you make ♪
+
+202
+00:10:20,485 --> 00:10:22,617
+♪ Are the sounds of my choice ♪
+
+203
+00:10:22,705 --> 00:10:24,707
+♪ I can make you sound better ♪
+
+204
+00:10:24,794 --> 00:10:26,839
+♪ Or make you sound worse ♪
+
+205
+00:10:29,189 --> 00:10:30,974
+♪ When your bull
+goes out wooing ♪
+
+206
+00:10:31,061 --> 00:10:33,237
+♪ There'll be no more mooing ♪
+
+207
+00:10:33,324 --> 00:10:35,761
+[bell dinging]
+
+208
+00:10:38,808 --> 00:10:40,766
+♪ When I wish to hear moos ♪
+
+209
+00:10:40,853 --> 00:10:42,812
+♪ I could hear them from youse ♪
+
+210
+00:10:42,899 --> 00:10:44,378
+Not from me..
+
+211
+00:10:44,465 --> 00:10:47,164
+[mooing]
+
+212
+00:10:50,776 --> 00:10:52,386
+♪ I can fuzzle the sound ♪
+
+213
+00:10:52,473 --> 00:10:54,606
+♪ Of what everyone hears ♪
+
+214
+00:10:54,693 --> 00:10:59,219
+♪ I'm the puzzle the master
+of everyone's ♪
+
+215
+00:10:59,306 --> 00:11:02,396
+♪ E-e-a-rs ♪♪
+
+216
+00:11:02,483 --> 00:11:03,528
+Ha-ha!
+
+217
+00:11:04,616 --> 00:11:05,922
+[engine revving]
+
+218
+00:11:06,009 --> 00:11:06,966
+crash
+
+219
+00:11:07,053 --> 00:11:08,272
+[tires screech]
+
+220
+00:11:08,359 --> 00:11:11,057
+[engine revving]
+
+221
+00:11:11,144 --> 00:11:12,972
+[Grinch laughing]
+
+222
+00:11:16,062 --> 00:11:17,411
+[The Grinch]
+'I'm the puzzle'
+
+223
+00:11:17,498 --> 00:11:20,023
+'the master of everyone's ears.'
+
+224
+00:11:20,110 --> 00:11:21,894
+[laughing]
+
+225
+00:11:23,678 --> 00:11:25,593
+'Max. Max!'
+
+226
+00:11:25,680 --> 00:11:27,639
+'Where are you, Max?'
+
+227
+00:11:29,467 --> 00:11:30,860
+[whimpers]
+
+228
+00:11:30,947 --> 00:11:33,340
+'Oh, no, Maxie-Waxie.'
+
+229
+00:11:33,427 --> 00:11:37,780
+No hidey-widey
+from Grinchy-Winchy.
+
+230
+00:11:41,174 --> 00:11:42,393
+That cat!
+
+231
+00:11:42,480 --> 00:11:44,438
+That beezleberry cat!
+
+232
+00:11:44,525 --> 00:11:46,397
+I snurgled his sound.
+
+233
+00:11:48,312 --> 00:11:50,227
+'Now I'll even do more.'
+
+234
+00:11:50,314 --> 00:11:53,839
+Take this up to my shop
+on the 39th floor.
+
+235
+00:11:53,926 --> 00:11:57,538
+That cat's gonna suffer
+like never before!
+
+236
+00:11:57,625 --> 00:11:59,105
+[laughs]
+
+237
+00:12:02,456 --> 00:12:05,372
+[dramatic music]
+
+238
+00:12:13,076 --> 00:12:14,991
+♪ This is the liggle gear ♪
+
+239
+00:12:15,078 --> 00:12:16,775
+♪ And as you know ♪
+
+240
+00:12:16,862 --> 00:12:18,821
+♪ It goes 'round and it makes ♪
+
+241
+00:12:18,908 --> 00:12:20,910
+♪ The biggle gear go ♪
+
+242
+00:12:20,997 --> 00:12:22,825
+♪ And the biggle gear turns ♪
+
+243
+00:12:22,912 --> 00:12:24,783
+♪ The elliptical scrunch ♪
+
+244
+00:12:24,870 --> 00:12:26,829
+♪ Which in turn is attached ♪
+
+245
+00:12:26,916 --> 00:12:29,005
+♪ To the dratsital thrust ♪
+
+246
+00:12:29,092 --> 00:12:30,876
+♪ Which rotates the flange ♪
+
+247
+00:12:30,963 --> 00:12:33,270
+♪ Of the salamar gotch ♪
+
+248
+00:12:33,357 --> 00:12:35,315
+♪ And that decompresses ♪
+
+249
+00:12:35,402 --> 00:12:37,187
+♪ The spatulet springs ♪
+
+250
+00:12:37,274 --> 00:12:39,058
+♪ Which fluctuate 'round ♪
+
+251
+00:12:39,145 --> 00:12:41,582
+♪ In the rabulous rings ♪
+
+252
+00:12:41,669 --> 00:12:43,410
+♪ Which heats up the pongs ♪
+
+253
+00:12:43,497 --> 00:12:45,673
+♪ As they heat up the pings ♪
+
+254
+00:12:45,760 --> 00:12:48,111
+♪ And that brings about ♪
+
+255
+00:12:48,198 --> 00:12:51,157
+♪ The most horrible things ♪♪
+
+256
+00:12:51,244 --> 00:12:53,072
+[laughing]
+
+257
+00:12:53,159 --> 00:12:54,117
+Ha!
+
+258
+00:12:54,204 --> 00:12:55,901
+[whimpering]
+
+259
+00:12:55,988 --> 00:12:56,946
+'Max.'
+
+260
+00:12:59,165 --> 00:13:02,952
+Do you know
+what a lighthouse is?
+
+261
+00:13:03,039 --> 00:13:05,084
+'A lighthouse makes light.'
+
+262
+00:13:05,171 --> 00:13:07,565
+So, just for a lark
+
+263
+00:13:07,652 --> 00:13:10,350
+I built me a dark-house.
+
+264
+00:13:10,437 --> 00:13:14,702
+A dark-house makes dark.
+
+265
+00:13:14,789 --> 00:13:17,967
+I just push a button
+up here in this place..
+
+266
+00:13:18,054 --> 00:13:23,059
+'...and you can't see your
+mitten in front of your face.'
+
+267
+00:13:23,146 --> 00:13:25,844
+Huh? What? What..
+
+268
+00:13:25,931 --> 00:13:29,804
+I can't see my mitten
+in front of my face.
+
+269
+00:13:29,892 --> 00:13:32,807
+[instrumental music]
+
+270
+00:13:42,730 --> 00:13:43,688
+screech
+
+271
+00:13:43,775 --> 00:13:44,907
+crash
+
+272
+00:13:51,391 --> 00:13:53,611
+[laughing]
+
+273
+00:13:54,220 --> 00:13:55,265
+[snarls]
+
+274
+00:13:55,352 --> 00:13:57,745
+How you doing, kitty-kitty?
+
+275
+00:13:57,832 --> 00:13:59,878
+Are you feeling pretty good
+
+276
+00:13:59,965 --> 00:14:01,793
+Mr. Cat in the Hoot?
+
+277
+00:14:05,405 --> 00:14:07,755
+Besides being boss of your ears
+
+278
+00:14:07,842 --> 00:14:09,192
+and your sound
+
+279
+00:14:09,279 --> 00:14:11,455
+I can make gloom
+
+280
+00:14:11,542 --> 00:14:13,500
+for a hundred miles 'round.
+
+281
+00:14:15,459 --> 00:14:18,549
+Ooh! That Grinch!
+
+282
+00:14:18,636 --> 00:14:19,854
+That Grinch!
+
+283
+00:14:19,942 --> 00:14:22,248
+That psychopathic Grinch!
+
+284
+00:14:24,207 --> 00:14:26,078
+Why is a Grinch?
+
+285
+00:14:26,165 --> 00:14:28,341
+What makes him tick?
+
+286
+00:14:28,428 --> 00:14:31,866
+Why is his Grinch brain
+sick, sick, sick?
+
+287
+00:14:31,954 --> 00:14:34,608
+Oh, boy, if I had
+a psychiatrist couch
+
+288
+00:14:34,695 --> 00:14:36,349
+I'd find out what's wrong
+
+289
+00:14:36,436 --> 00:14:39,265
+with that Grinchy Grouch.
+
+290
+00:14:39,352 --> 00:14:41,050
+That's a lot of rot.
+
+291
+00:14:44,314 --> 00:14:47,534
+Is there something
+in your family tree
+
+292
+00:14:47,621 --> 00:14:52,452
+that causes Grinch delinquency?
+
+293
+00:14:52,539 --> 00:14:55,760
+Absolutely not!
+
+294
+00:14:55,847 --> 00:14:59,459
+♪ As a boy were you never
+a good Boy Scout? ♪
+
+295
+00:14:59,546 --> 00:15:02,767
+♪ Did you ever eat
+too much sauerkraut? ♪
+
+296
+00:15:02,854 --> 00:15:06,379
+♪ Did your school teacher say
+that you were a fool? ♪
+
+297
+00:15:06,466 --> 00:15:10,253
+♪ Did you dive
+in an empty swimming pool? ♪
+
+298
+00:15:10,340 --> 00:15:12,777
+Positively not!
+
+299
+00:15:12,864 --> 00:15:15,693
+♪ Did you fight a lot
+with your older sisters? ♪
+
+300
+00:15:15,780 --> 00:15:18,957
+♪ Did you suffer
+from poison ivy blisters? ♪
+
+301
+00:15:19,044 --> 00:15:20,437
+♪ The shoes that you wore ♪
+
+302
+00:15:20,524 --> 00:15:21,829
+♪ Were they too tight? ♪
+
+303
+00:15:21,916 --> 00:15:23,222
+♪ Were you afraid to go out ♪
+
+304
+00:15:23,309 --> 00:15:24,789
+♪ In the dark at night? ♪
+
+305
+00:15:24,876 --> 00:15:27,966
+♪ Did some big bully
+steal your kite? ♪
+
+306
+00:15:28,053 --> 00:15:31,100
+♪ Your teeth was there something
+wrong with your bite? ♪
+
+307
+00:15:31,187 --> 00:15:33,450
+♪ Or maybe your mother didn't ♪
+
+308
+00:15:33,537 --> 00:15:36,670
+♪ Treat you right ♪♪
+
+309
+00:15:36,757 --> 00:15:38,890
+Absotively, posolutely
+
+310
+00:15:38,977 --> 00:15:41,980
+that's a lot of rot.
+
+311
+00:15:42,067 --> 00:15:45,549
+Hm, one of the most difficult
+patients I've ever had.
+
+312
+00:15:45,636 --> 00:15:48,030
+'I'm gonna have to make
+a house call.'
+
+313
+00:15:48,117 --> 00:15:49,074
+boing
+
+314
+00:15:49,161 --> 00:15:50,902
+[engine rumbling]
+
+315
+00:15:50,989 --> 00:15:53,905
+[instrumental music]
+
+316
+00:15:58,214 --> 00:16:00,607
+[zapping]
+
+317
+00:16:00,694 --> 00:16:02,566
+[tires screeching]
+
+318
+00:16:08,354 --> 00:16:10,269
+Hm, this is a bit more
+
+319
+00:16:10,356 --> 00:16:12,532
+complicatacious than I thought.
+
+320
+00:16:12,619 --> 00:16:14,230
+[whirring]
+
+321
+00:16:14,317 --> 00:16:17,102
+[engine rumbling]
+
+322
+00:16:17,189 --> 00:16:18,669
+[music continues]
+
+323
+00:16:20,584 --> 00:16:21,889
+whoop
+
+324
+00:16:22,586 --> 00:16:24,240
+vroom
+
+325
+00:16:30,768 --> 00:16:31,812
+[tires screeching]
+
+326
+00:16:31,899 --> 00:16:35,816
+crash
+
+327
+00:16:35,903 --> 00:16:39,733
+[laughs]
+That darkness is getting
+quite dull
+
+328
+00:16:39,820 --> 00:16:41,083
+don't you think?
+
+329
+00:16:41,170 --> 00:16:42,910
+Let's liven things up
+
+330
+00:16:42,997 --> 00:16:46,218
+'with some persimmon pink.'
+
+331
+00:16:46,305 --> 00:16:49,178
+[instrumental music]
+
+332
+00:16:54,052 --> 00:16:55,184
+boing.
+
+333
+00:17:07,196 --> 00:17:08,545
+Phew!
+
+334
+00:17:13,637 --> 00:17:17,162
+May I suggest
+this sizzling chef's special?
+
+335
+00:17:17,249 --> 00:17:20,383
+- But I'm not hungry.
+- An excellent choice!
+
+336
+00:17:20,470 --> 00:17:23,386
+[indistinct chatter]
+
+337
+00:17:23,473 --> 00:17:26,345
+[instrumental music]
+
+338
+00:17:40,620 --> 00:17:41,708
+Here you are, sir.
+
+339
+00:17:43,232 --> 00:17:45,364
+The delicious
+sizzling chef's special.
+
+340
+00:17:45,451 --> 00:17:47,018
+[inhales deeply]
+
+341
+00:17:49,107 --> 00:17:50,674
+Watch this, I'll give him
+
+342
+00:17:50,761 --> 00:17:53,633
+a double gagtical
+flomax deluxe.
+
+343
+00:17:53,720 --> 00:17:55,983
+[beeping]
+
+344
+00:17:56,070 --> 00:17:59,422
+'Oh, what a super-dupe
+flomax deluxe.'
+
+345
+00:18:04,427 --> 00:18:06,298
+Ah!
+
+346
+00:18:08,909 --> 00:18:09,867
+boing
+
+347
+00:18:13,131 --> 00:18:16,047
+[instrumental music]
+
+348
+00:18:20,878 --> 00:18:22,836
+[whirring]
+
+349
+00:18:22,923 --> 00:18:24,490
+[man screaming]
+
+350
+00:18:27,711 --> 00:18:29,800
+[laughs]
+
+351
+00:18:29,887 --> 00:18:31,323
+And now
+
+352
+00:18:31,410 --> 00:18:33,717
+I will give them
+a triple ring fitzarung
+
+353
+00:18:33,804 --> 00:18:35,109
+gunkongeshlap.
+
+354
+00:18:35,197 --> 00:18:36,807
+With a marshmallow sauce
+
+355
+00:18:36,894 --> 00:18:38,765
+and a cherry on top.
+
+356
+00:18:41,290 --> 00:18:42,204
+[whirring]
+
+357
+00:18:44,075 --> 00:18:46,991
+[music continues]
+
+358
+00:18:50,777 --> 00:18:53,650
+[instrumental music]
+
+359
+00:18:55,869 --> 00:18:57,610
+[horn blaring]
+
+360
+00:18:57,697 --> 00:19:00,570
+[music continues]
+
+361
+00:19:09,100 --> 00:19:11,407
+[horn blaring]
+
+362
+00:19:14,018 --> 00:19:16,890
+[music continues]
+
+363
+00:19:16,977 --> 00:19:18,109
+[shatters]
+
+364
+00:19:20,372 --> 00:19:23,245
+[music continues]
+
+365
+00:19:27,858 --> 00:19:30,643
+That Grinch, that Grinch.
+
+366
+00:19:30,730 --> 00:19:32,341
+He has smuggled our light.
+
+367
+00:19:32,428 --> 00:19:34,081
+He's guzzled our sound.
+
+368
+00:19:34,168 --> 00:19:36,170
+He's bamboozled our lives.
+
+369
+00:19:36,258 --> 00:19:38,695
+And a way must be found
+to cease him
+
+370
+00:19:38,782 --> 00:19:40,871
+from schploting
+his evil around.
+
+371
+00:19:40,958 --> 00:19:43,874
+[dramatic music]
+
+372
+00:19:55,364 --> 00:19:59,803
+That Grinch. That Grinch.
+
+373
+00:19:59,890 --> 00:20:02,284
+Deep inside
+his freaky freakness
+
+374
+00:20:02,371 --> 00:20:04,460
+there must be a soft spot.
+
+375
+00:20:04,547 --> 00:20:05,504
+[blows]
+
+376
+00:20:05,591 --> 00:20:07,898
+There must be a weakness.
+
+377
+00:20:07,985 --> 00:20:11,728
+Despite the grim fact that
+he's depraved and deranged
+
+378
+00:20:11,815 --> 00:20:14,034
+I will find that soft spot.
+
+379
+00:20:15,384 --> 00:20:17,734
+That Grinch can be changed.
+
+380
+00:20:17,821 --> 00:20:19,257
+He hates cows.
+
+381
+00:20:19,344 --> 00:20:20,954
+He hates cats.
+
+382
+00:20:21,041 --> 00:20:23,261
+He hates frogs,
+he hates doves.
+
+383
+00:20:24,262 --> 00:20:26,569
+Is there no one, no one?
+
+384
+00:20:26,656 --> 00:20:29,093
+Nobody he loves?
+
+385
+00:20:29,180 --> 00:20:31,791
+Absolutely not!
+
+386
+00:20:31,878 --> 00:20:33,532
+That's a lot of rot!
+
+387
+00:20:33,619 --> 00:20:35,099
+[whooshing]
+
+388
+00:20:35,186 --> 00:20:37,623
+Rowdy-doe! I've got it!
+
+389
+00:20:37,710 --> 00:20:39,625
+I've got it,
+I've got the Grinch
+
+390
+00:20:39,712 --> 00:20:41,584
+psychological-ized.
+
+391
+00:20:41,671 --> 00:20:43,890
+You, you, you and you
+
+392
+00:20:43,977 --> 00:20:45,979
+follow me, men and madam.
+
+393
+00:20:46,066 --> 00:20:48,504
+We're going to un-Grinch
+The Grinch.
+
+394
+00:20:53,030 --> 00:20:56,773
+- How am I doing, old fellow?
+- Magnificently--
+
+395
+00:20:56,860 --> 00:21:00,211
+♪ Pong pong pong ♪
+
+396
+00:21:00,298 --> 00:21:02,126
+♪ Pong ♪
+
+397
+00:21:03,083 --> 00:21:07,174
+♪ Hum-m-m ♪
+
+398
+00:21:07,261 --> 00:21:10,613
+♪ Oh soften your heart ♪
+
+399
+00:21:10,700 --> 00:21:14,704
+♪ Remember your mother ♪
+
+400
+00:21:14,791 --> 00:21:16,880
+♪ Everyone ♪
+
+401
+00:21:16,967 --> 00:21:19,709
+♪ Even a Grinch ♪
+
+402
+00:21:19,796 --> 00:21:21,711
+♪ Had a mother ♪
+
+403
+00:21:21,798 --> 00:21:25,062
+♪ Who taught him of love ♪
+
+404
+00:21:25,149 --> 00:21:29,109
+♪ Between one and another ♪
+
+405
+00:21:29,196 --> 00:21:32,939
+♪ Oh remember
+your mother's ♪
+
+406
+00:21:33,026 --> 00:21:34,985
+♪ Warm arms ♪
+
+407
+00:21:35,072 --> 00:21:37,857
+♪ As she held you ♪
+
+408
+00:21:37,944 --> 00:21:42,166
+♪ Remember your sweet
+mother's eyes ♪
+
+409
+00:21:42,253 --> 00:21:44,473
+♪ She adored you ♪
+
+410
+00:21:44,560 --> 00:21:48,868
+♪ Remember how hard
+mother worked ♪
+
+411
+00:21:48,955 --> 00:21:51,305
+♪ To afford you ♪
+
+412
+00:21:51,393 --> 00:21:54,265
+♪ How she patted
+your cheeks ♪
+
+413
+00:21:54,352 --> 00:21:58,443
+♪ While you sat
+on her knees ♪
+
+414
+00:21:58,530 --> 00:22:02,578
+♪ Oh remember
+your wonderful ♪
+
+415
+00:22:02,665 --> 00:22:07,104
+♪ Grinch mother please ♪
+
+416
+00:22:07,191 --> 00:22:10,324
+♪ Aa-uh aa-uh ♪
+
+417
+00:22:10,412 --> 00:22:14,241
+♪ Wherever she's now ♪
+
+418
+00:22:14,328 --> 00:22:17,462
+♪ Her eyes are still looking ♪
+
+419
+00:22:17,549 --> 00:22:20,900
+♪ Looking down on at you ♪
+
+420
+00:22:20,987 --> 00:22:24,643
+♪ And wondering
+what's cooking ♪
+
+421
+00:22:24,730 --> 00:22:28,386
+♪ Deep down in your brain ♪
+
+422
+00:22:28,473 --> 00:22:33,217
+♪ Must you give her
+more pain? ♪
+
+423
+00:22:33,304 --> 00:22:37,395
+♪ Please soften your heart ♪
+
+424
+00:22:37,482 --> 00:22:41,094
+♪ Make mom happy ♪
+
+425
+00:22:41,181 --> 00:22:44,141
+♪ Oh Grinch ♪
+
+426
+00:22:44,228 --> 00:22:49,407
+♪ Bum bum bum bum ♪♪
+
+427
+00:22:50,364 --> 00:22:53,280
+[mellow music]
+
+428
+00:22:58,242 --> 00:23:00,505
+There, there, son.
+
+429
+00:23:00,592 --> 00:23:03,334
+Everything's
+going to be alright.
+
+430
+00:23:05,249 --> 00:23:06,903
+Ma-mama?
+
+431
+00:23:06,990 --> 00:23:07,947
+[sniffles]
+
+432
+00:23:08,034 --> 00:23:09,340
+Yes, son.
+
+433
+00:23:09,427 --> 00:23:10,733
+Now, be a good boy
+
+434
+00:23:10,820 --> 00:23:12,865
+and clean up your room.
+
+435
+00:23:12,952 --> 00:23:14,606
+[The Grinch]
+Yes, mama.
+
+436
+00:23:14,693 --> 00:23:16,173
+[sniffles]
+
+437
+00:23:16,260 --> 00:23:18,088
+Hand me a wrench, Max.
+
+438
+00:23:18,175 --> 00:23:20,003
+We've got work to do.
+
+439
+00:23:22,832 --> 00:23:25,399
+[male narrator]
+Once again,
+it was a beautiful morning.
+
+440
+00:23:25,487 --> 00:23:28,315
+Once again,
+the sun came up glitzeling
+
+441
+00:23:28,402 --> 00:23:31,928
+and the witzel birds
+once more were witzeling.
+
+442
+00:23:32,015 --> 00:23:33,973
+This was gooder than good.
+
+443
+00:23:34,060 --> 00:23:36,498
+This was grander than grand.
+
+444
+00:23:36,585 --> 00:23:38,761
+There was peace in his heart.
+
+445
+00:23:38,848 --> 00:23:41,807
+There'd be peace in the land.
+
+446
+00:23:41,894 --> 00:23:45,071
+And a very good morning to you,
+Mr. Grinch.
+
+447
+00:23:45,158 --> 00:23:46,986
+Oh, it is, is it?
+
+448
+00:23:47,073 --> 00:23:49,772
+I think the time has come
+for thee
+
+449
+00:23:49,859 --> 00:23:51,338
+to repeat The Grinch's oath..
+
+450
+00:23:51,425 --> 00:23:54,341
+[screeching]
+
+451
+00:23:58,955 --> 00:24:01,348
+[instrumental music]
+
+451
+00:24:02,305 --> 00:25:02,682
+Watch any video online with Open-SUBTITLES
+Free Browser extension: osdb.link/ext

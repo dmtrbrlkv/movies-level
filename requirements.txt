@@ -1,0 +1,12 @@
+matplotlib
+nltk
+numpy
+pandas
+pysrt
+spacy
+catboost
+imblearn
+joblib
+pandarallel
+scipy
+scikit-learn
