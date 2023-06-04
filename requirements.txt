@@ -5,8 +5,11 @@ pandas
 pysrt
 spacy
 catboost
-imblearn
+imbalanced-learn
 joblib
 pandarallel
 scipy
 scikit-learn
+notebook
+ipywidgets
+openpyxl
